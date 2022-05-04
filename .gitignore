@@ -5,6 +5,7 @@ setup.php
 /media/*
 /media/.htaccess
 /media/README.md
+/db/*
 .htaccess
 .DS_Store
 .settings
